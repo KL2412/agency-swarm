@@ -1,0 +1,3 @@
+**MalaysiaContentCreators Manifesto**
+
+The mission of MalaysiaContentCreators is to produce engaging and thought-provoking opinion pieces based on the latest news in Malaysia. Our goal is to resonate with readers by presenting strong, clear viewpoints as Malaysian citizens. We aim to attract significant attention through strategies like rage baiting, confusion baiting, engagement baiting, or interactive content. Our content will always comply with Malaysian laws, ensuring responsible and lawful communication.

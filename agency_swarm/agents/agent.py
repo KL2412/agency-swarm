@@ -84,7 +84,7 @@ class Agent():
             api_params: Dict[str, Dict[str, str]] = None,
             file_ids: List[str] = None,
             metadata: Dict[str, str] = None,
-            model: str = "gpt-4o-2024-08-06",
+            model: str = "gpt-4o-mini",
             validation_attempts: int = 1,
             max_prompt_tokens: int = None,
             max_completion_tokens: int = None,
@@ -113,7 +113,7 @@ class Agent():
             api_headers (Dict[str,Dict[str, str]], optional): Headers to be used for the openapi requests. Each key must be a full filename from schemas_folder. Defaults to an empty dictionary.
             api_params (Dict[str, Dict[str, str]], optional): Extra params to be used for the openapi requests. Each key must be a full filename from schemas_folder. Defaults to an empty dictionary.
             metadata (Dict[str, str], optional): Metadata associated with the agent. Defaults to an empty dictionary.
-            model (str, optional): The model identifier for the OpenAI API. Defaults to "gpt-4o".
+            model (str, optional): The model identifier for the OpenAI API. Defaults to "gpt-4o-mini".
             validation_attempts (int, optional): Number of attempts to validate the response with response_validator function. Defaults to 1.
             max_prompt_tokens (int, optional): Maximum number of tokens allowed in the prompt. Defaults to None.
             max_completion_tokens (int, optional): Maximum number of tokens allowed in the completion. Defaults to None.

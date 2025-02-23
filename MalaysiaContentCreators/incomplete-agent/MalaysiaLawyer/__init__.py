@@ -1,0 +1,1 @@
+from .MalaysiaLawyer import MalaysiaLawyer
