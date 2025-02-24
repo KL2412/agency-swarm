@@ -1,0 +1,1 @@
+The TradingAgency aims to develop and test trading strategies through simulation trades. By utilizing market data from Binance, the agency will focus on refining strategies without real financial risk. The goal is to create a robust framework for evaluating trading algorithms in a controlled environment.
